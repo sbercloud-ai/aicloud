@@ -527,7 +527,7 @@
 		{
 			"id": "3b3bf23d-b5c3-4833-aebb-734a6d1ca829",
 			"key": "job-name",
-			"value": "lm-mpi-job-83010850-a515-47f1-8edf-6f0be19c483b",
+			"value": "Job name",
 			"type": "string"
 		},
 		{
@@ -545,13 +545,13 @@
 		{
 			"id": "ba07dd20-ca99-4c0d-9dd2-5776891b97c6",
 			"key": "accessTokenExpiry",
-			"value": "set auto by pre-request script",
+			"value": "Set automatically by the pre-request script",
 			"type": "string"
 		},
 		{
 			"id": "19064940-464d-4143-a44d-3efc3716046f",
 			"key": "x-access-token",
-			"value": "set auto by pre-request script",
+			"value": "Set automatically by the pre-request script",
 			"type": "string"
 		}
 	],
