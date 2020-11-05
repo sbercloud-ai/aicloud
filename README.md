@@ -28,3 +28,5 @@ Invoke the very first method in collection - ```/public/v1/auth/```
 ![import postman collection4](/doc/img/postman_import4.png)
     
  Done, the script will set the api key from response in your collection's variables automatically
+ 
+Now you can invoke every other method without worrying about authentication - the collection will take care of it for you
