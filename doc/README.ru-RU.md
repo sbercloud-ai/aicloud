@@ -11,7 +11,7 @@
 3.  Выберите вкладку **Link**, и используйте ссылку ниже для импорта:
     
     ```
-    https://raw.githubusercontent.com/sbercloud-ai/aicloud/Docs-for-postman/api.postman-collection.json
+    https://raw.githubusercontent.com/sbercloud-ai/aicloud/Docs-for-postman/doc/api.postman-collection.json
     ```
 
     ![import postman collection1](/img/postman_import1.png)
