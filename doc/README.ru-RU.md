@@ -14,18 +14,18 @@
     https://raw.githubusercontent.com/sbercloud-ai/aicloud/Docs-for-postman/doc/api.postman-collection.json
     ```
 
-    ![import postman collection1](/img/postman_import1.png)
+    ![import postman collection1](/doc/img/postman_import1.png)
 
 4.  Затем подтвердите импорт
 5.  Теперь установите ваши данные в переменные коллекции
     
-    ![import postman collection2](/img/postman_import2.png)
-    ![import postman collection3](/img/postman_import3.png)
+    ![import postman collection2](/doc/img/postman_import2.png)
+    ![import postman collection3](/doc/img/postman_import3.png)
 
 ##### 3. Авторизуйтесь на AICloud
 Вызовите самый первый метод коллекции - ```/public/v1/auth/```
 
-![import postman collection4](/img/postman_import4.png)
+![import postman collection4](/doc/img/postman_import4.png)
     
  Все, скрипт установит полученный api-key в переменные коллекции автоматически
  

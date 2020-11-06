@@ -14,18 +14,18 @@ Make sure you have Postman installed on your machine. The Postman installation p
     https://raw.githubusercontent.com/sbercloud-ai/aicloud/Docs-for-postman/doc/api.postman-collection.json
     ```
 
-    ![import postman collection1](/img/postman_import1.png)
+    ![import postman collection1](/doc/img/postman_import1.png)
 
 4.  Next, confirm the import
 5.  Now, set your credentials into the collection's variables by editing the collection
     
-    ![import postman collection2](/img/postman_import2.png)
-    ![import postman collection3](/img/postman_import3.png)
+    ![import postman collection2](/doc/img/postman_import2.png)
+    ![import postman collection3](/doc/img/postman_import3.png)
 
 ##### 3. Authenticating your account to AICloud with your credentials
 Invoke the very first method in collection - ```/public/v1/auth/```
 
-![import postman collection4](/img/postman_import4.png)
+![import postman collection4](/doc/img/postman_import4.png)
     
  Done, the script will set the api key from response in your collection's variables automatically
  
